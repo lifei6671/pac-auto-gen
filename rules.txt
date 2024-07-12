@@ -15,3 +15,4 @@
 
 *.freegpt.one
 *.vidhub.icu
+*.oaistatic.com
